@@ -10,7 +10,7 @@ COLOR CODE2: #F2184F
 /*Theme Colored Red Text-color*/
 .text-theme-color-2,
 .work-gallery .gallery-bottom-part .title {
-  color: #F22613;
+  color: green;
 }
 /*Theme Colored Red Bg-color*/
 /* background-theme-color */
@@ -781,7 +781,7 @@ fieldset[disabled] .btn-gray.btn-theme-colored.focus {
 */
 .btn-theme-colored {
   color: #fff;
-  background-color: #2E375F;
+  background-color: green;
   border-color: #2E375F;
 }
 .btn-theme-colored:focus,
