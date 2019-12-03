@@ -15,7 +15,7 @@ COLOR CODE2: #F2184F
 /*Theme Colored Red Bg-color*/
 /* background-theme-color */
 .bg-theme-colored {
-  background-color: #2E375F !important;
+  background-color: #2E375 !important;
 }
 .bg-theme-colored-lighter2 {
   background-color: #333d69 !important;
@@ -358,7 +358,7 @@ ul.list.theme-colored.check li:before,
 }
 /* background-theme-color */
 .bg-theme-colored {
-  background-color: #2E375F !important;
+  background-color: green !important;
 }
 /* bg-hover-theme-color */
 .bg-hover-theme-colored:hover {
